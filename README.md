@@ -12,3 +12,11 @@
 >streamlit run home.py
 6. edit the python file
 >import streamlit as st
+# To save code to github
+1. source control
+2. click更改
+3. 提交
+4. sync
+
+#防止privacy上传到github
+1. 创建.env
